@@ -5,8 +5,8 @@ step 1: change the network settings to bridge network
 
 step 2: connect to the any network
 
-step 3: now 
-git clone the https://github.com/venkatsaisagar/network_scanner.git
+step 3: now clone the link
+git clone https://github.com/venkatsaisagar/network_scanner.git
 
 step 4: cd 
 
