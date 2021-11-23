@@ -10,9 +10,11 @@ step 3: now clone the link
 git clone https://github.com/venkatsaisagar/network_scanner.git
 
 
-step 4: cd 
+step 4: cd network_scanner
 
-step 5: python3 
-
+step 5: python3 network_scanner.py
 
 then give your ip address ex;123.456.789.1/24
+
+# required tools
+make sure that you have python3, this tool wont work in python,python2
